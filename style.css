@@ -1,0 +1,14 @@
+body{
+  background: grey;
+}
+
+h1, h2{
+  color: red;
+
+}
+
+p{
+  color: blue;
+  font-size:23px;
+
+}
